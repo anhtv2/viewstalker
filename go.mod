@@ -1,4 +1,4 @@
-module anhtv2/viewstalker
+module github.com/anhtv2/viewstalker
 
 go 1.18
 
